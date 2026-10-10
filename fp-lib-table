@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Imported Parts") (type "KiCad") (uri "D:/Downloads/Week 1 Care Package/Imported Parts.pretty") (options "") (descr ""))
+	(lib (name "Imported Parts") (type "KiCad") (uri "D:/Downloads/Week 1 Care Package 2/Imported Parts.pretty") (options "") (descr ""))
+	(lib (name "Imported Parts") (type "KiCad") (uri "D:/Downloads/Week 1 Care Package/Imported Parts.pretty") (options "") (descr ""))
+)
