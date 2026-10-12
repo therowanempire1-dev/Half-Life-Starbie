@@ -20,7 +20,7 @@
 | [Aosong DHT11](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/26085/16822119) | Environment sensor | 1 | $2.39 | $2.39 | [DigiKey](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/26085/16822119) |
 | [Cherry MX Keycap](https://www.digikey.com/en/products/detail/sparkfun-electronics/15306/10130909) | Buttons | 2 | $1.05 | $2.10 | [DigiKey](https://www.digikey.com/en/products/detail/sparkfun-electronics/15306/10130909) |
 | **Parts subtotal** | — | — | — | **$21.03** | — |
-| **Tax & shipping** | — | — | — | **$8.52** | — |
-| **Total** | — | — | — | **$29.55** | — |
+| **Tax & shipping** | — | — | — | **$8.82** | — |
+| **Total** | — | — | — | **$29.85** | — |
 
-$0.45 left of the tier's funding.
+$0.15 left of the tier's funding.
