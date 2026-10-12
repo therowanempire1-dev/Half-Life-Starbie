@@ -19,7 +19,7 @@
 | [MPU6050](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/26098/26606388?gclsrc=aw.ds&gad_source=4&gad_campaignid=23033451739&gbraid=0AAAAADrbLliCHjxooBxAmAwkTkEsvckhd&gclid=CjwKCAjw56zWBhB0EiwAdPOQOQ7WHYBwWmQmmZdekoJAk8blLpQA4dsDYbu6AlbYyiB78rEp_XFMUhoCQ8wQAvD_BwE) | Detect tilting | 1 | $3.69 | $3.69 | [DigiKey](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/26098/26606388?gclsrc=aw.ds&gad_source=4&gad_campaignid=23033451739&gbraid=0AAAAADrbLliCHjxooBxAmAwkTkEsvckhd&gclid=CjwKCAjw56zWBhB0EiwAdPOQOQ7WHYBwWmQmmZdekoJAk8blLpQA4dsDYbu6AlbYyiB78rEp_XFMUhoCQ8wQAvD_BwE) |
 | [Aosong DHT11](https://www.lcsc.com/product-detail/C117051.html) | Environment sensor | 1 | $1.46 | $1.46 | [LCSC](https://www.lcsc.com/product-detail/C117051.html) |
 | **Parts subtotal** | — | — | — | **$15.85** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$15.85** | — |
+| **Tax & shipping** | — | — | — | **$8.52** | — |
+| **Total** | — | — | — | **$24.37** | — |
 
-$14.15 left of the tier's funding.
+$5.63 left of the tier's funding.
